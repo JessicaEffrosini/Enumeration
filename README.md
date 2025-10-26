@@ -96,16 +96,59 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
-  
-  
-
-## nmap –script smtp-enum-users.nse <hostname>
+ ## nmap –script smtp-enum-users.nse <hostname>
 
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
 
 
 ## OUTPUT:
+ ## Link:
+ <img width="1919" height="1081" alt="Screenshot 2025-09-24 204300" src="https://github.com/user-attachments/assets/24cf559c-0a3f-4ce4-ab87-421815ebfc3c" />
+ 
+ ## Intitle:
+<img width="1913" height="1086" alt="Screenshot 2025-09-24 204234" src="https://github.com/user-attachments/assets/1ca6bbc0-cfac-40ec-a558-e8d86865f77e" />
+
+## Inurl:
+<img width="1918" height="1083" alt="Screenshot 2025-09-24 204142" src="https://github.com/user-attachments/assets/3d4e3f70-dcc5-448c-80d1-6ac536eda662" />
+
+## Intext :
+<img width="1918" height="1080" alt="Screenshot 2025-09-24 204035" src="https://github.com/user-attachments/assets/c4562c06-fb09-4d92-a830-2672568d930f" />
+
+##  Filetype
+<img width="1916" height="1029" alt="Screenshot 2025-09-24 204004" src="https://github.com/user-attachments/assets/40fb308a-07fc-4f05-9728-c7ab524e601f" />
+
+##  Site
+<img width="1917" height="1084" alt="Screenshot 2025-09-24 203918" src="https://github.com/user-attachments/assets/b3ca5736-da38-4d19-88e2-fcb442ceeab1" />
+
+## CACHE:
+
+ <img width="1918" height="1079" alt="Screenshot 2025-09-24 204322" src="https://github.com/user-attachments/assets/42b16705-c5aa-4c79-8d34-4dc9f32fc52a" />
+
+## DNS Recon:
+  
+<img width="1012" height="574" alt="Screenshot 2025-10-26 180100" src="https://github.com/user-attachments/assets/c193efaa-19fd-4535-842a-de619aafdbe9" />
+
+## dnsenum:
+<img width="1020" height="788" alt="Screenshot 2025-10-26 180130" src="https://github.com/user-attachments/assets/a01a00a7-7ccc-4655-b6d8-a5d058c232bc" />
+
+<img width="952" height="689" alt="Screenshot 2025-10-26 182824" src="https://github.com/user-attachments/assets/19e758fb-d265-4cbb-b788-9d2e5a7a9b48" />
+
+
+## smtp-user-enum
+<img width="792" height="358" alt="Screenshot 2025-10-26 180215" src="https://github.com/user-attachments/assets/83989afc-d8dc-4579-9f54-62c4e65d8e27" />
+<img width="891" height="439" alt="Screenshot 2025-10-26 180206" src="https://github.com/user-attachments/assets/a56056cb-5c88-40ef-81b3-6de0c3df7719" />
+
+## Telnet:
+<img width="878" height="441" alt="Screenshot 2025-10-26 180225" src="https://github.com/user-attachments/assets/7cce001f-253d-446f-a34c-dbb933982f08" />
+
+## nmap –script smtp-enum-users.nse:
+<img width="764" height="277" alt="Screenshot 2025-10-26 180422" src="https://github.com/user-attachments/assets/06299816-5f07-4c4c-9d53-8f7214ac239a" />
+ 
+
+
+  
+
+
 
 
 ## RESULT:
